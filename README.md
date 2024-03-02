@@ -2,7 +2,7 @@
 <h3 align="center">A área de administração de banco de dados e análises de dados me fascina.</h3>
 
 - 🔭 Atualmente Estou trabalhando em um projeto de modelagem de um sistema de vendas de uma loja de instrumentos musicais e desenvolvendo procedimentos que realizam inserção de dados, exclusão, atualizações, pedidos, confirmação de pedidos e cancelamentos de pedidos.
-     Trabalhando na administração do banco com 'jobs', criação de acessos, backups automatizados e mais. [Gerenciamento de vendas-loja-musical](https://github.com/Denner-Maia/Gerenciamento-de-vendas-loja-musical)
+     Trabalhando na administração do banco com jobs, criação de acessos, backups automatizados e mais. [Gerenciamento de vendas-loja-musical](https://github.com/Denner-Maia/Gerenciamento-de-vendas-loja-musical)
 
 - 🌱 Atualmente estou aprendendo **SQL, T-SQL, MSSQL-SERVER, BI **
 
